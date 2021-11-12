@@ -1,0 +1,4 @@
+it\majorbit\service\LaptopService.class
+it\majorbit\model\Laptop.class
+it\majorbit\repository\LaptopRepository.class
+it\majorbit\run\DataBaseLaptopApplication.class
