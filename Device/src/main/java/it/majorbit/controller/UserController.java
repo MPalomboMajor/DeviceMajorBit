@@ -90,7 +90,7 @@ public class UserController {
 					if (userService.getUserByEmail(email) == null) {
 						userService.insertUser(newUser);
 					} else {
-						msg = "Utente numero 1 già presente";
+						msg = "Utente già presente";
 						return msg;
 					}
 
